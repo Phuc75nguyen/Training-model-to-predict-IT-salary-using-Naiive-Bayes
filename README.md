@@ -1,0 +1,1 @@
+# Training-model-to-predict-IT-salary-using-Naiive-Bayes
